@@ -1,2 +1,4 @@
+== 1.0.1 / 09-05-14
+* require 'jruby/activemq'
 == 1.0.0 / 06-27-13
 * Initial release

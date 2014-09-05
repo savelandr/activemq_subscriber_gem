@@ -1,5 +1,5 @@
 require 'java'
-require 'activemq'
+require 'jruby/activemq'
 
 # Class to subscribe to an ActiveMQ topic and present the messages nicely
 class ActiveMQSubscriber
